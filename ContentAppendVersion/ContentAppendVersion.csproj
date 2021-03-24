@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+		<Description>キャッシュされた古いバージョンの静的ファイルが使用されないように最新であることを示すバージョンを付加するサンプルです。</Description>
+		<Company>ソーサリーフォース (https://sorceryforce.net/)</Company>
+		<Authors>おのでら (ソーサリーフォース)</Authors>
+		<Copyright>Copyright (C) 2021 おのでら</Copyright>
+		<UserSecretsId>0a82960c-d4ae-4f91-9826-d2fcabdd8a2f</UserSecretsId>
+	</PropertyGroup>
+
+</Project>
